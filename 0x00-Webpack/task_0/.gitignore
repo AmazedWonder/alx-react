@@ -2,3 +2,4 @@ node-modules
 webpack.config.js
 package-lock.json
 main.js
+main.js.LICENSE.txt
